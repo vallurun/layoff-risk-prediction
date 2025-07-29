@@ -58,3 +58,8 @@ Example Response:
 {
   "layoff_risk_score": 0.68
 }
+
+
+## Author
+
+**Nimeesha Valluru**  
